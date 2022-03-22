@@ -1,6 +1,6 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "Alice96-tt",
+  "description": "Alice96-tt",
   "keywords": [
     "vmess or vles"
   ],
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/san5francisco/Alice96-tt",
+  "repository": "https://github.com/san5francisco/Alice96-tt",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
